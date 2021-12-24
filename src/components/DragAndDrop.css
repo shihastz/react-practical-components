@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  user-select: none;
+}
+img:hover,
+p:hover,
+h4:hover {
+  cursor: pointer;
 }
 
 .App-logo {
